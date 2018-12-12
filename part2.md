@@ -11,7 +11,7 @@ On page load, the user should see their Github profile, it should display their 
 
 [Basic User Info: api.github.com/users/{user}](https://developer.github.com/v3/users/)
 
-[User Events (for commits): api.github.com/users/{user}/events/public](https://developer.github.com/v3/activity/events/#list-events-performed-by-a-user)`
+[User Events (for commits): api.github.com/users/{user}/events/public](https://developer.github.com/v3/activity/events/#list-events-performed-by-a-user)
 
 ### Resource Tracker:
 User Stories:
