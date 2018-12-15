@@ -10,7 +10,8 @@ User Story: As a user, when I log in via GitHub and the page loads, I should see
 On page load, the user should see their Github profile, it should display their GitHub username, avatar, bio and profile URL. It should also display the # of commits they have over the last 5 days.
 
 
-HINT:  For the github stuff you will need to use 2 github api endpoints. One for user - to return back the profile info for a user.  One for events - to return back the events performed by a user.  Check out these endpoints here:
+HINT:  For the github stuff you will need to use 2 GitHub API endpoints. One for user - to return back the profile info for a user.  One for events - to return back the events performed by a user.  Check out these endpoints here:
+
 [Basic User Info: api.github.com/users/{user}](https://developer.github.com/v3/users/)
 
 [User Events (for commits): api.github.com/users/{user}/events/public](https://developer.github.com/v3/activity/events/#list-events-performed-by-a-user)
